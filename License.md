@@ -1,5 +1,3 @@
----
-
 # 📜 Automation Tool Usage License
 
 **Copyright (c) 2026 Vinicius Moura**
